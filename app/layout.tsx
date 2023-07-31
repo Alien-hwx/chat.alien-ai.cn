@@ -19,7 +19,7 @@ export const metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "AI Chat Web",
+    title: "Alien-AI",
     statusBarStyle: "default",
   },
 };
